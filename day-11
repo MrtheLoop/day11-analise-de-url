@@ -1,0 +1,87 @@
+# 30 Days de Cibersecutrity: Dia 11 - Análise de URL
+    Esta trilha de 30 dias de cibersegurança é um projeto da Sabrina Ramos (LinkedIn: https://www.linkedin.com/in/sabrinaramosb/).
+    
+# Informações:
+- Todas as informações foram coletadas com o único intuíto de aprendizado de análise de URL.
+- 
+
+### Ferramentas Utilizadas:
+- Kali Linux v2022.4
+- Whois
+- theHarvester
+- Nmap
+- Wappalyzer
+- Google
+- MxToolBox
+
+
+# Principais informações de URL
+
+### URL: 
+    polkabridge[.]org
+### URL principalr: 
+https:// porkbun[.]com
+### IP:
+95.179.203.230 (Servidor dedicado)
+### Portas utilizadas: 
+    - 22 (SSH)
+    - 80 (HTTP)
+    - 443 (HTTPS)
+    - +419 portas filtradas (Não escaneado por precaução)
+    
+### ASN: 
+AS20473 AS-CHOOPA, EUA (registrado em 11 de maio de 2001)
+
+### Principais tecnologias utilizadas: 
+- Ferramenta Estatística:
+   -> Google Analytics
+- Framework JavaScript:
+    -> JSS
+    -> React
+- Reprodutor de Vídeo:
+    -> YouTube
+- Script de Fonte:
+    -> Font Awesome 3.2.1
+- Diversos:
+    -> PWA
+    -> Open Graph
+    -> LottieFiles
+- Servidor Web:
+    -> Nginx 1.18.0
+
+### Sistema Operacional:
+    Ubuntu Linux 6ubuntu2.1
+    
+### Ferramenta de Desenvolvimento:
+    JSS
+### Proxy Reverso:
+    Nginx 1.18.0
+### UI Frameworks:
+    MUI
+    Bootstrap
+
+### Tipo de criptografia (SSH):
+    - RSA
+    - ED25519
+    
+### DNS: 
+ - polkabridge[.]org
+
+### Hosts:
+- corgib.polkabridge.org:192.248.148.45                          
+- farm.polkabridge.org:78.141.202.101
+- ino.polkabridge.org:104.238.174.97                                        
+- launchpad.polkabridge.org:45.77.91.38
+- p2p.polkabridge.org:149.28.147.167                                    
+- stake.polkabridge.org:192.248.156.212                     
+- swap.polkabridge.org:78.141.227.229  
+
+### Servidores:
+- CURITIBA.NS.PORKBUN.COM (has 556,428 domains)
+- FORTALEZA.NS.PORKBUN.COM (has 556,428 domains)
+- ACEIO.NS.PORKBUN.COM (has 556,428 domains)
+SALVADOR.NS.PORKBUN.COM (has 556,428 domains)
+
+### Reputação:
+    - Segundo o MxToolBox, a URL possui uma boa reputação, sem nenhum tipo de atividade suspeita.
+
