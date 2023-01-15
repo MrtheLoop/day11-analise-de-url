@@ -25,10 +25,13 @@ Todas as informações contidas nesse repositório foram obtidas de forma legít
 
 ### URL: 
  polkabridge[.] Org
+ 
 ### Principal da URL: 
 https:// porco[.] .com
+
 ### IP:
 95.179.203.230 (Servidor dedicado)
+
 ### Portas utilizadas: 
     - 22 (SSH)
     - 80 (HTTP)
@@ -40,17 +43,17 @@ AS20473 AS-CHOOPA, EUA (registrado em 11 de maio de 2001)
 
 ### Principais tecnologias utilizadas: 
 - Ferramenta Estatística:
-   -> Google Analytics
+    -> Google Analytics
 - Framework JavaScript:
     -> JSS
- -> Reagir
+    -> Reagir
 - Reprodutor de Vídeo:
     -> YouTube
 - Script de Fonte:
- -> Fonte Awesome 3.2.1
+     -> Fonte Awesome 3.2.1
 - Diversos:
     -> PWA
- -> Gráfico Aberto
+    -> Gráfico Aberto
     -> LottieFiles
 - Servidor Web:
     -> Nginx 1.18.0
@@ -60,14 +63,16 @@ AS20473 AS-CHOOPA, EUA (registrado em 11 de maio de 2001)
     
 ### Ferramenta de Desenvolvimento:
     JSS
+    
 ### Proxy Reverso:
     Nginx 1.18.0
+    
 ### Estruturas de interface do usuário:
-    MUI
-    Bootstrap
+    - MUI
+    - Bootstrap
 
 ### Tipo de criptografia (SSH):
- -RSA
+ - RSA
  - ED25519 (em inglês)
     
 ### DNS: 
